@@ -1,3 +1,6 @@
+# ⚠️ WARNING! THIS REPOSITORY IS STILL UNDER CONSTRUCTION ⚠️
+
+
 # Build your own Keyboard - URC 75
 
 [![MIT License](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
@@ -13,7 +16,8 @@ This project was designed to be a beginners introduction to building electronics
 **This project is fully opensource!**<br/>
 All files to build your own "URC 75" from scratch, keyboard can be found in this respository, from the STEP files, to the schematics of the board. 
 
-[To build your own, you can self source, or purchase your own kit here!](https://uwarobotics.com.au/keyboard)
+## To build your own, you can self source, or [purchase your own kit here!](https://uwarobotics.com.au/keyboard)
+
 
 
 
