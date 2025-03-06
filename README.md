@@ -26,14 +26,14 @@ All files to build your own "URC 75" from scratch, keyboard can be found in this
 - M2 Allen Key
 - Side Cutters
 - (Helpful Option) Masking Tape
-- 
+
 
 ## Getting Started / Build Instructions
 Full guide on how to assemble and solder your URC 75 Kit. 
 - [**Full Guide**]()
-- [Soldering]()
-- [Mechanical Assembly]()
-- [Firmware Installation]()
+- [Jump to Soldering]()
+- [Jump to Mechanical Assembly]()
+- [Jump to Firmware Installation]()
 
 ## Features
 - 75% Layout (82 keys)
