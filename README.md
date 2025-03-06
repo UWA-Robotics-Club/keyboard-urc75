@@ -18,71 +18,79 @@ All files to build your own "URC 75" from scratch, keyboard can be found in this
 
 ## To build your own, you can self source, or [purchase your own kit here!](https://uwarobotics.com.au/keyboard)
 
-
-
-
-
 ![Keyboard Image](/img/Rainbow%20LED.gif)
 
-## Features
-
+### Prerequisites / Tools required
+- Soldering iron and solder
+- Phillips Screwdriver 
+- M2 Allen Key
+- Side Cutters
+- (Helpful Option) Masking Tape
 - 
+
+## Getting Started / Build Instructions
+Full guide on how to assemble and solder your URC 75 Kit. 
+- [**Full Guide**]()
+- [Soldering]()
+- [Mechanical Assembly]()
+- [Firmware Installation]()
+
+## Features
+- 75% Layout (82 keys)
+- USB C Connector
+- Hotswap Keyswitch Sockets
+- Per Key RGB Lighting
+- Acryllic Top Window to see Electronics
+- Pudding Style Keycaps
+- OLED Display (with Bongo Cat animation)
 - Open-source design with complete build files
 - Beginner-friendly assembly process
 - Customizable firmware
 
-## Getting Started
+
+## Bill of Materials (URC 75 Kit)
+![Kit Image](/img/Kit.JPG)
+- 1x Resin 3D Printed Top 
+- 1x Resin 3d Printed Bottom Case 
+- 1x Custom URC75 main circuitboard
+- 1x White Pudding style Keycaps Set
+- 1x OLED Display
+- 1x Stabilisers set ( 1x 6.25u , 3x 1.5u, Rubber gaskets, screws)
+- 84x Hotswap Sockets
+- 84x Linear Keyswitches
+- 84x Through hole Diodes
+- 2x 22mm M2 Socket Head Screws
+- 2x 20mm M2 Socket Head Screws
+- 7x 18mm M2 Socket Head Screws
+- 11x 8mm M2 Socket Head Screws
+- 33x M2 Heat Set inserts
+- 4x M2 Standoffs
+- 1x Acryllic window
+- 1x Paper Bag Packaging 
+
+### Kit DOES NOT Contain: 
+- Soldering Iron 
+- Solder 
+- M2 Allen key / driver
+- Masking Tape
+- Side Cutters
+- **USB C Cable**
 
 
-### Prerequisites
+## Acknowledgments and Credits
 
-- Basic soldering skills
-- Soldering iron and solder
-- Screwdriver set
-- [Any other tools needed for assembly]
-
-### Bill of Materials (URC 75 Kit)
-
-
-
-## Build Instructions
-
-
-
-## Customization
-
-This keyboard supports [firmware type, e.g., QMK/VIA] which allows for complete customization of key mappings, layers, and special functions. 
-
-- [Basic customization instructions]
-- [Links to relevant documentation]
-- [Examples of popular modifications]
-
-## Troubleshooting
-
-| Issue | Possible Cause | Solution |
-|-------|---------------|----------|
-| [Common issue 1] | [Potential causes] | [Solutions] |
-| [Common issue 2] | [Potential causes] | [Solutions] |
-| [Common issue 3] | [Potential causes] | [Solutions] |
-
-For additional help, please [open an issue](link-to-issues-page) or contact the UWA Robotics Club.
-
-## Contributing
-
+### UWA Robotics Club 
+- Prashan Wijesinghe  - Keyboard Electrical and Mechanical Design 
+- William Craig - Project Management, Marketing, Administration 
+- UWA Robotics Club - Sponsoring the purchase of parts for kits
+### External Credits
+- All workshop participants who provided feedback
+- QMK Firmware
 
 
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## Acknowledgments and Credits
-
-### UWA Robotics Club members who contributed to this project
-- Prashan Wijesinghe  - Keyboard Electrical and Mechanical Design 
-- William Craig - Project Management, Marketing, Administration 
-### External Credits
-- All workshop participants who provided feedback
-- QMK Firmware
 
 ---
 
