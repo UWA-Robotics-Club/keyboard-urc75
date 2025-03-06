@@ -60,4 +60,4 @@ The board should come to life and all LEDs on the front of the board should be l
 
 Look over all the LEDs and ensure they are all lit, as it is easier to fix at this point rather than tearing down the whole board once it is complete. 
 
-# [Go to Section 2]() 
+# [Go to Section 2](/Build_Instructions/2_Diodes.md) 

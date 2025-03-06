@@ -21,6 +21,7 @@ All files to build your own "URC 75" from scratch, keyboard can be found in this
 ![Keyboard Image](/img/Rainbow%20LED.gif)
 
 ### Prerequisites / Tools required
+- USB C Cable **THIS KIT DOESN NOT INCLUDE A USB C CABLE**
 - Soldering iron and solder
 - Phillips Screwdriver 
 - M2 Allen Key
@@ -30,10 +31,10 @@ All files to build your own "URC 75" from scratch, keyboard can be found in this
 
 ## Getting Started / Build Instructions
 Full guide on how to assemble and solder your URC 75 Kit. 
-- [**Full Guide**]()
-- [Jump to Soldering]()
-- [Jump to Mechanical Assembly]()
-- [Jump to Firmware Installation]()
+- [**Full Guide**](/Build_Instructions/0_Build_Instructions.md)
+- [Jump to Soldering](/Build_Instructions/2_Diodes.md)
+- [Jump to Mechanical Assembly](/Build_Instructions/6_Heatset_and_Case_Assembly.md)
+- [Jump to Firmware Installation](/Build_Instructions/9_Install_Firmware.md)
 
 ## Features
 - 75% Layout (82 keys)
