@@ -3,7 +3,7 @@
 
 # Build your own Keyboard - URC 75
 
-[![MIT License](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
+[![GPL v2 License](https://img.shields.io/badge/License-GPL%20v2-blue.svg)](https://www.gnu.org/licenses/old-licenses/gpl-2.0.en.html)
 
 ![Banner](/img/Banner.jpg)
 
@@ -14,9 +14,10 @@ This repository contains all files and instructions for the "Build Your Own Keyb
 This project was designed to be a beginners introduction to building electronics, as well as serving as an interesting product that UWA Robotics Club members have genuine use for, and can use day to day. 
 
 **This project is fully opensource!**<br/>
-All files to build your own "URC 75" from scratch, keyboard can be found in this respository, from the STEP files, to the schematics of the board. 
+All files to build your own "URC 75" from scratch, can be found in this respository, from the STEP files, to the schematics of the board, and the QMK firmware. 
 
 ## To build your own, you can self source, or [purchase your own kit here!](https://uwarobotics.com.au/keyboard)
+
 
 ![Keyboard Image](/img/Rainbow%20LED.gif)
 
@@ -50,7 +51,7 @@ Full guide on how to assemble and solder your URC 75 Kit.
 
 
 ## Bill of Materials (URC 75 Kit)
-![Kit Image](/img/Kit.JPG)
+![Kit Image](/img/Full%20Kit%20Kaid%20Out.JPG)
 - 1x Resin 3D Printed Top 
 - 1x Resin 3d Printed Bottom Case 
 - 1x Custom URC75 main circuitboard
@@ -91,7 +92,7 @@ Full guide on how to assemble and solder your URC 75 Kit.
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the GPL2 
 
 ---
 

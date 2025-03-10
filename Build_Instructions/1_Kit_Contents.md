@@ -12,7 +12,7 @@ This section will show and describe all parts that come in the URC 75 kit and al
 
 | Image     | Item     |
 | ------------- | ------------- |
-| ![Kit_Laid_out](/Build_Instructions/Build_img/TopCase.png )  | 1x Resin 3D Printed Top  |
+| ![Kit_Laid_out](/Build_Instructions/Build_img/TopCase.png )  | 1x Resin 3D Printed Top Case |
 | ![Kit_Laid_out](/Build_Instructions/Build_img/BottomCase.png )  | 1x Resin 3d Printed Bottom Case  |
 | ![Kit_Laid_out](/Build_Instructions/Build_img/MainBoard.png )  | 1x Custom URC75 main circuitboard  |
 | ![Kit_Laid_out](/Build_Instructions/Build_img/KeyCapSet.png )  | 1x White Pudding style Keycaps Set  |
@@ -27,7 +27,7 @@ This section will show and describe all parts that come in the URC 75 kit and al
 | ![Kit_Laid_out](/Build_Instructions/Build_img/M2x8mm%20x%2011pcs.png)  |  11x 8mm M2 Socket Head Screws |
 | ![Kit_Laid_out](/Build_Instructions/Build_img/M2%20Inserts%20x33pcs.png)  |  33x M2 Heat Set inserts |
 | ![Kit_Laid_out](/Build_Instructions/Build_img/M2%20Standoffs.png)  |  4x M2 Stand offs |
-| ![Kit_Laid_out]()  |  1x Acryllic Window |
+| ![Kit_Laid_out](/Build_Instructions/Build_img/Acrylic%20Window.JPG)  |  1x Acryllic Window |
 | ![Kit_Laid_out](/Build_Instructions/Build_img/PaperBagPackaging.png)  |  1x Paper Bag Packaging |
 
  
