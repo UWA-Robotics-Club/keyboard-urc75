@@ -4,7 +4,6 @@
 
 In this section, we will show you solder the OLED display to your board
 
-# Preparing the sockets 
 
 ![image](/Build_Instructions/4_OLED_img/Solder%20the%20OLED/1.JPG)
   Go and retreive the OLED Display from your kit <br/>
