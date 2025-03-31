@@ -7,6 +7,9 @@
 
 ![Banner](/img/Banner.jpg)
 
+### [Repository To-Do list](/TODO.md)
+
+
 ## Overview
 
 This repository contains all files and instructions for the "Build Your Own Keyboard" project created by the UWA Robotics Club. 
