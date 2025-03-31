@@ -1,6 +1,6 @@
 ## Build your own Keyboard - URC 75
 
-# 5. OLED
+# 5. Testing the Solder Joints
 
 In this section, we will show you how to test all your connections and ensure that your board is working correctly
 
@@ -57,4 +57,22 @@ After touching the solder joints for a key, it should show as green on the testi
 ![image](/Build_Instructions/5_Testing_Solder_Joints_img/Flash%20the%20Firmware%20to%20Test%20the%20LEDS/13.JPG)
 If any keys display as RED, this is ok, it means that the key has been detected by the computer but that there is some chatter on that signal. 
 
-This could just be because we are shorting the signalwire with a paperclip, but if it is a genuine problem, then you can reflow the solder joints on the  <br/>
+This could just be because we are shorting the signalwire with a paperclip, but if it is a genuine problem, then you can reflow the solder joints on the Diode (top of the board) and the switch socket <br/>
+
+When you have tested all the solder joints, your display should have the following keys be lit up is either green or red: 
+![image](/Build_Instructions/5_Testing_Solder_Joints_img/Flash%20the%20Firmware%20to%20Test%20the%20LEDS/CorrectKeys.png)
+
+You should notice that there are some keys on the Right side of the board (when looking from the front) which do not do anything when they are pressed, this is because we have mapped these keys to MEDIA functions by default. 
+
+In the below image the mapping should be: 
+Red = DELETE, GREEN = Volume Up, BLUE = Volume Down, Orange = Next song, Purple = Play/Pause
+
+![image](/Build_Instructions/5_Testing_Solder_Joints_img/Flash%20the%20Firmware%20to%20Test%20the%20LEDS/Media%20Keys.JPG)
+
+In order to test these keys, you may need to open a music app like Spotify to test the "Next song" and "Play/pause " functions. If the song is successfully changed, and the play pause functionality is seen, then the electrical connections to these switches are successful.
+
+# Well Done ! You have tested all your solder joints for your keyboard! 
+
+Next you will Assemble the Case!
+
+# [Go to next Section](/Build_Instructions/6_Heatset_and_Case_Assembly.md)
