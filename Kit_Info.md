@@ -23,12 +23,8 @@
 - 1x Acryllic window
 - 1x Paper Bag Packaging 
 
-<div style="background-color: #fff7e6; padding: 15px; border-radius: 5px; border-left: 4px solid #fa8c16;">
-  Warning: Be careful about this!
 
-
-<h1 style="text-align: center;">  Warning! </h1>
-
+[!WARNING]
 ### Kit DOES NOT Contain:
 - Soldering Iron 
 - Solder 
@@ -37,7 +33,6 @@
 - Side Cutters
 - **USB C Cable**
 
-</div>
 
 ### Prerequisites / Tools required
 - USB C Cable **THIS KIT DOESN NOT INCLUDE A USB C CABLE**
