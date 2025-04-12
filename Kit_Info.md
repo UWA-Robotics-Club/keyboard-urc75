@@ -3,6 +3,7 @@
 
 
 
+
 ## Bill of Materials (URC 75 Kit)
 ![Kit Image](/img/Full%20Kit%20Kaid%20Out.JPG)
 - 1x Resin 3D Printed Top 
@@ -24,18 +25,11 @@
 - 1x Paper Bag Packaging 
 
 
-[!WARNING]
-### Kit DOES NOT Contain:
-- Soldering Iron 
-- Solder 
-- M2 Allen key / driver
-- Masking Tape
-- Side Cutters
-- **USB C Cable**
+![Warning Image](/img/This%20Kit%20Does%20NOT%20Contain(1).png)
 
 
 ### Prerequisites / Tools required
-- USB C Cable **THIS KIT DOESN NOT INCLUDE A USB C CABLE**
+- USB C Cable 
 - Soldering iron and solder
 - Phillips Screwdriver 
 - M2 Allen Key
