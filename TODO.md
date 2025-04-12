@@ -23,10 +23,15 @@
 
 - Gather main issues and create a "support and troubleshooting" page 
     - LED has come off 
+    - Cold solder joints 
+    - How to troubleshoot faulty keys 
+    - Warped Cases 
     - 
 
 
 ## Longer Term Goals 
+
+- Video tutorial of how to assemble your keyboard
 
 - Use Github actions to make it easy to build an modify your firmware. 
 

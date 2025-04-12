@@ -7,9 +7,6 @@
 
 ![Banner](/img/Banner.jpg)
 
-### [Repository To-Do list](/TODO.md)
-
-
 ## Overview
 
 This repository contains all files and instructions for the "Build Your Own Keyboard" project created by the UWA Robotics Club. 
@@ -19,28 +16,10 @@ This project was designed to be a beginners introduction to building electronics
 **This project is fully opensource!**<br/>
 All files to build your own "URC 75" from scratch, can be found in this respository, from the STEP files, to the schematics of the board, and the QMK firmware. 
 
-## To build your own, you can self source, or [purchase your own kit here!](https://uwarobotics.com.au/keyboard)
 
-
-![Keyboard Image](/img/Rainbow%20LED.gif)
-
-### Prerequisites / Tools required
-- USB C Cable **THIS KIT DOESN NOT INCLUDE A USB C CABLE**
-- Soldering iron and solder
-- Phillips Screwdriver 
-- M2 Allen Key
-- Side Cutters
-- (Helpful Option) Masking Tape
-
-
-## Getting Started / Build Instructions
-Full guide on how to assemble and solder your URC 75 Kit. 
-- [**Full Guide**](/Build_Instructions/0_Build_Instructions.md)
-- [Jump to Soldering](/Build_Instructions/2_Diodes.md)
-- [Jump to Mechanical Assembly](/Build_Instructions/6_Heatset_and_Case_Assembly.md)
-- [Jump to Firmware Installation](/Build_Instructions/9_Install_Firmware.md)
 
 ## Features
+![Keyboard Image](/img/Rainbow%20LED.gif)
 - 75% Layout (82 keys)
 - USB C Connector
 - Hotswap Keyswitch Sockets
@@ -52,34 +31,25 @@ Full guide on how to assemble and solder your URC 75 Kit.
 - Beginner-friendly assembly process
 - Customizable firmware
 
+# BUILD YOUR OWN! 
 
-## Bill of Materials (URC 75 Kit)
+We have built a ready-to-go kit! Be sure to grab yours while there is still stock!
+<div style="text-align: center;">
+
+[![Buy a Kit]][Link_Kits]
+
+[![Build Instructions]][Link_Build_Instructions]
+
 ![Kit Image](/img/Full%20Kit%20Kaid%20Out.JPG)
-- 1x Resin 3D Printed Top 
-- 1x Resin 3d Printed Bottom Case 
-- 1x Custom URC75 main circuitboard
-- 1x White Pudding style Keycaps Set
-- 1x OLED Display
-- 1x Stabilisers set ( 1x 6.25u , 3x 1.5u, Rubber gaskets, screws)
-- 84x Hotswap Sockets
-- 84x Linear Keyswitches
-- 84x Through hole Diodes
-- 2x 22mm M2 Socket Head Screws
-- 2x 20mm M2 Socket Head Screws
-- 7x 18mm M2 Socket Head Screws
-- 11x 8mm M2 Socket Head Screws
-- 33x M2 Heat Set inserts
-- 4x M2 Standoffs
-- 1x Acryllic window
-- 1x Paper Bag Packaging 
+</div>
 
-### Kit DOES NOT Contain: 
-- Soldering Iron 
-- Solder 
-- M2 Allen key / driver
-- Masking Tape
-- Side Cutters
-- **USB C Cable**
+## Getting Started / Build Instructions
+Full guide on how to assemble and solder your URC 75 Kit. 
+- [**Full Guide**](/Build_Instructions/0_Build_Instructions.md)
+- [Jump to Soldering](/Build_Instructions/2_Diodes.md)
+- [Jump to Mechanical Assembly](/Build_Instructions/6_Heatset_and_Case_Assembly.md)
+- [Jump to Firmware Installation](/Build_Instructions/9_Install_Firmware.md)
+
 
 
 ## Acknowledgments and Credits
@@ -100,3 +70,9 @@ This project is licensed under the GPL2
 ---
 
 Created by UWA Robotics Club - https://uwarobotics.com.au/
+
+[Link_kits]: /Kit_Info.md
+[Buy a Kit]: https://img.shields.io/badge/Learn_more_about_our_Kits!-37a779?style=for-the-badge
+
+[Link_Build_Instructions]: /Build_Instructions/0_Build_Instructions.md
+[Build Instructions]: https://img.shields.io/badge/View_our_Build_instructions!-37a779?style=for-the-badge
