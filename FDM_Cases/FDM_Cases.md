@@ -11,7 +11,7 @@ Thank you :) - William Craig
 
 # 🚨 Problem
 ## What has happened?
-We contracted a supplier to 3D print resin cases for our "Build your own keyboard kit." Unfortunately, the material properties of the resin have resulted in several significant issues that affect functionality and durability.
+We contracted an overseas supplier to 3D print resin cases for our "Build your own keyboard kit." Unfortunately, the material properties of the resin have resulted in several significant issues that affect functionality and durability.
 
 ### What are the problems with the original cases?
 The resin cases have multiple issues:
